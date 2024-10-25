@@ -1,5 +1,5 @@
 public class PrintName {
     public static void main(String[] args) {
-        System.out.println("PrintName");
+        System.out.println("Vijay Eanuganti");
     }
 }
